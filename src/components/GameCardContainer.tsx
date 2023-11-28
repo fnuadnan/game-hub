@@ -1,5 +1,5 @@
 import { Box } from '@chakra-ui/react'
-import React, { PropsWithChildren } from 'react'
+import { PropsWithChildren } from 'react'
 
 
 const GameCardContainer = ({children}: PropsWithChildren) => {
